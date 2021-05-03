@@ -1,0 +1,10 @@
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD GAME.csprojAssemblyReference.cache
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD_GAME.Form1.resources
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD_GAME.Properties.Resources.resources
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD GAME.csproj.GenerateResource.cache
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD GAME.csproj.CoreCompileInputs.cache
+C:\Users\1630113\source\repos\BIRD GAME\bin\Debug\BIRD GAME.exe.config
+C:\Users\1630113\source\repos\BIRD GAME\bin\Debug\BIRD GAME.exe
+C:\Users\1630113\source\repos\BIRD GAME\bin\Debug\BIRD GAME.pdb
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD GAME.exe
+C:\Users\1630113\source\repos\BIRD GAME\obj\Debug\BIRD GAME.pdb

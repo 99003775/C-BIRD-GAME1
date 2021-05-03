@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIRD GAME", "BIRD GAME.csproj", "{70145FE4-AF8A-4081-A5A5-4CAF7A0E9768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70145FE4-AF8A-4081-A5A5-4CAF7A0E9768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70145FE4-AF8A-4081-A5A5-4CAF7A0E9768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70145FE4-AF8A-4081-A5A5-4CAF7A0E9768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70145FE4-AF8A-4081-A5A5-4CAF7A0E9768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94E5BD9-F2FA-4200-8646-52FD5F10A1AE}
+	EndGlobalSection
+EndGlobal
